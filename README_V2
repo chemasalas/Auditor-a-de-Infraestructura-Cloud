@@ -1,0 +1,9 @@
+¿Qué error os da VS Code si intentáis poner dos servidores con el mismo ID?
+
+El error exacto que da la extensión de validación en VS Code es:
+cvc-identity-constraint.4.1: Duplicate unique value [srv-web-01] declared for identity constraint 'UnicoID' of element 'catalogo_cloud'.
+
+
+¿Cuántas líneas de código habéis ahorrado al usar grupos?
+
+Unas 40 lineas
